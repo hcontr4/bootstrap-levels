@@ -9,6 +9,7 @@ Rails.application.routes.draw do
   get 'levels/navbar'
   get 'levels/grid'
   get 'levels/dynamic_list_group'
+  get 'levels/tech_meeting'
 
   get 'instructions/primary_button'
   get 'instructions/other_buttons'

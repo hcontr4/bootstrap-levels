@@ -1,0 +1,29 @@
+.base-button {
+  color: white;
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+}
+
+.fancy-button {
+  background-color: blue;
+}
+
+.fancy-button:hover {
+  background-color: darkblue;
+}
+
+.fancy-button:active {
+
+}
+
+.scary-button {
+  background-color: red;
+}
+
+.scary-button:hover {
+  background-color: darkred;
+}
+
+.scary-button:active {
+
+}
